@@ -1,0 +1,16 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of xliffmerge
+ * In principle, there is only the bin file xliffmerge,
+ * because this is not mentioned as a library.
+ * But the tooling uses the configuration file type.
+ */
+// The module is here only because ng-packagr needs it
+export { XliffmergeModule } from './lib/xliffmerge.module';
+export { WriterToString } from './common/writer-to-string';
+export { CommandOutput } from './common/command-output';
+export { XliffMerge } from './xliffmerge/xliff-merge';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BuZ3gtaTE4bnN1cHBvcnQvbmd4LWkxOG5zdXBwb3J0LyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7OztBQVFBLGlDQUFjLHlCQUF5QixDQUFDO0FBRXhDLE9BQU8sRUFBQyxjQUFjLEVBQUMsTUFBTSwyQkFBMkIsQ0FBQztBQUN6RCxPQUFPLEVBQUMsYUFBYSxFQUFDLE1BQU0seUJBQXlCLENBQUM7QUFDdEQsT0FBTyxFQUFDLFVBQVUsRUFBQyxNQUFNLDBCQUEwQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiB4bGlmZm1lcmdlXG4gKiBJbiBwcmluY2lwbGUsIHRoZXJlIGlzIG9ubHkgdGhlIGJpbiBmaWxlIHhsaWZmbWVyZ2UsXG4gKiBiZWNhdXNlIHRoaXMgaXMgbm90IG1lbnRpb25lZCBhcyBhIGxpYnJhcnkuXG4gKiBCdXQgdGhlIHRvb2xpbmcgdXNlcyB0aGUgY29uZmlndXJhdGlvbiBmaWxlIHR5cGUuXG4gKi9cblxuLy8gVGhlIG1vZHVsZSBpcyBoZXJlIG9ubHkgYmVjYXVzZSBuZy1wYWNrYWdyIG5lZWRzIGl0XG5leHBvcnQgKiBmcm9tICcuL2xpYi94bGlmZm1lcmdlLm1vZHVsZSc7XG5leHBvcnQge0lYbGlmZk1lcmdlT3B0aW9ucywgSUNvbmZpZ0ZpbGUsIFByb2dyYW1PcHRpb25zfSBmcm9tICcuL3hsaWZmbWVyZ2UvaS14bGlmZi1tZXJnZS1vcHRpb25zJztcbmV4cG9ydCB7V3JpdGVyVG9TdHJpbmd9IGZyb20gJy4vY29tbW9uL3dyaXRlci10by1zdHJpbmcnO1xuZXhwb3J0IHtDb21tYW5kT3V0cHV0fSBmcm9tICcuL2NvbW1vbi9jb21tYW5kLW91dHB1dCc7XG5leHBvcnQge1hsaWZmTWVyZ2V9IGZyb20gJy4veGxpZmZtZXJnZS94bGlmZi1tZXJnZSc7XG4iXX0=

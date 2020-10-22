@@ -1,0 +1,52 @@
+{
+  "name": "@ngx-i18nsupport/ngx-i18nsupport",
+  "version": "1.1.6",
+  "description": "Some tooling to be used with the Angular i18n workflow",
+  "private": false,
+  "bin": {
+    "xliffmerge": "xliffmerge/xliffmerge"
+  },
+  "engines": {
+    "node": ">=10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinroob/ngx-i18nsupport.git"
+  },
+  "keywords": [
+    "i18n",
+    "tooling",
+    "angular",
+    "xliff",
+    "xmb"
+  ],
+  "author": "Martin Roob <martinroob65@gmail.com> (www.roobsoft.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinroob/ngx-i18nsupport/issues"
+  },
+  "homepage": "https://github.com/martinroob/ngx-i18nsupport#readme",
+  "dependencies": {
+    "rxjs": "^6.0",
+    "chalk": "^2.4.1",
+    "he": "^1.1.1",
+    "@ngx-i18nsupport/ngx-i18nsupport-lib": "^1.12.1",
+    "request": "^2.85.0",
+    "tslib": "^1.9.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "xliffmergeOptions": {
+    "description": "just for some tests here"
+  },
+  "main": "bundles/ngx-i18nsupport-ngx-i18nsupport.umd.js",
+  "module": "fesm5/ngx-i18nsupport-ngx-i18nsupport.js",
+  "es2015": "fesm2015/ngx-i18nsupport-ngx-i18nsupport.js",
+  "esm5": "esm5/ngx-i18nsupport-ngx-i18nsupport.js",
+  "esm2015": "esm2015/ngx-i18nsupport-ngx-i18nsupport.js",
+  "fesm5": "fesm5/ngx-i18nsupport-ngx-i18nsupport.js",
+  "fesm2015": "fesm2015/ngx-i18nsupport-ngx-i18nsupport.js",
+  "typings": "ngx-i18nsupport-ngx-i18nsupport.d.ts",
+  "metadata": "ngx-i18nsupport-ngx-i18nsupport.metadata.json",
+  "sideEffects": false
+}
